@@ -8,3 +8,15 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+div {
+  width: 40px;
+  display: inline-block;
+  margin: 20px 20px;
+  padding: 16px;
+  background-color: rgb(17, 81, 183);
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+}
